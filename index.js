@@ -50,7 +50,6 @@ app.use(
      // 👇 add this 👇
      scope: "openid profile email read:reports",
      // 👆 add this 👆
-     prompt: consent,
    },
  })
 );
