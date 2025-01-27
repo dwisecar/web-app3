@@ -52,7 +52,7 @@ app.use(
      // 👆 add this 👆
      acr_value: "tenant:test-tenant",
      custom_param: "custom-value",  
-     organization: "org_pHIxzai6VWBnBBLg"
+     "organization": "org_pHIxzai6VWBnBBLg"
    },
  })
 );
