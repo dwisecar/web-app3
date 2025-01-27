@@ -50,6 +50,8 @@ app.use(
      // 👇 add this 👇
      scope: "openid profile email offline_access read:reports",
      // 👆 add this 👆
+     acr_value: "tenant:test-tenant",
+     custom_param: "custom-value",  
      organization: "org_pHIxzai6VWBnBBLg"
    },
  })
