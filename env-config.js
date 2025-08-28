@@ -1,5 +1,5 @@
 const {
-  ISSUER_BASE_URL,
+  ISSUER_BASE_URL = "https://dave-w.dse.ninja.com",
   API_URL,
   CLIENT_ID,
   CLIENT_SECRET,
